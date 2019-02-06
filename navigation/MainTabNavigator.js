@@ -51,6 +51,11 @@ BrowseStack.navigationOptions = {
 };
 
 export default createBottomTabNavigator({
-    HomeStack,
-    BrowseStack,
-});
+        HomeStack,
+        BrowseStack,
+    }, 
+    {
+        initialRouteName: 'BrowseStack',
+    }
+);
+

@@ -1,7 +1,7 @@
 [
     {
         "abbr": "Gen",
-        "book": "Genesis",
+        "name": "Genesis",
         "chapters": [
             {
                 "chapter": "1",
@@ -207,7 +207,7 @@
     },
     {
         "abbr": "Exod",
-        "book": "Exodus",
+        "name": "Exodus",
         "chapters": [
             {
                 "chapter": "1",
@@ -373,7 +373,7 @@
     },
     {
         "abbr": "Lev",
-        "book": "Leviticus",
+        "name": "Leviticus",
         "chapters": [
             {
                 "chapter": "1",
@@ -487,7 +487,7 @@
     },
     {
         "abbr": "Num",
-        "book": "Numbers",
+        "name": "Numbers",
         "chapters": [
             {
                 "chapter": "1",
@@ -637,7 +637,7 @@
     },
     {
         "abbr": "Deut",
-        "book": "Deuteronomy",
+        "name": "Deuteronomy",
         "chapters": [
             {
                 "chapter": "1",
@@ -779,7 +779,7 @@
     },
     {
         "abbr": "Josh",
-        "book": "Joshua",
+        "name": "Joshua",
         "chapters": [
             {
                 "chapter": "1",
@@ -881,7 +881,7 @@
     },
     {
         "abbr": "Judg",
-        "book": "Judges",
+        "name": "Judges",
         "chapters": [
             {
                 "chapter": "1",
@@ -971,7 +971,7 @@
     },
     {
         "abbr": "Ruth",
-        "book": "Ruth",
+        "name": "Ruth",
         "chapters": [
             {
                 "chapter": "1",
@@ -993,7 +993,7 @@
     },
     {
         "abbr": "1Sam",
-        "book": "1 Samuel",
+        "name": "1 Samuel",
         "chapters": [
             {
                 "chapter": "1",
@@ -1123,7 +1123,7 @@
     },
     {
         "abbr": "2Sam",
-        "book": "2 Samuel",
+        "name": "2 Samuel",
         "chapters": [
             {
                 "chapter": "1",
@@ -1225,7 +1225,7 @@
     },
     {
         "abbr": "1Kgs",
-        "book": "1 Kings",
+        "name": "1 Kings",
         "chapters": [
             {
                 "chapter": "1",
@@ -1319,7 +1319,7 @@
     },
     {
         "abbr": "2Kgs",
-        "book": "2 Kings",
+        "name": "2 Kings",
         "chapters": [
             {
                 "chapter": "1",
@@ -1425,7 +1425,7 @@
     },
     {
         "abbr": "1Chr",
-        "book": "1 Chronicles",
+        "name": "1 Chronicles",
         "chapters": [
             {
                 "chapter": "1",
@@ -1547,7 +1547,7 @@
     },
     {
         "abbr": "2Chr",
-        "book": "2 Chronicles",
+        "name": "2 Chronicles",
         "chapters": [
             {
                 "chapter": "1",
@@ -1697,7 +1697,7 @@
     },
     {
         "abbr": "Ezra",
-        "book": "Ezra",
+        "name": "Ezra",
         "chapters": [
             {
                 "chapter": "1",
@@ -1743,7 +1743,7 @@
     },
     {
         "abbr": "Neh",
-        "book": "Nehemiah",
+        "name": "Nehemiah",
         "chapters": [
             {
                 "chapter": "1",
@@ -1801,7 +1801,7 @@
     },
     {
         "abbr": "Esth",
-        "book": "Esther",
+        "name": "Esther",
         "chapters": [
             {
                 "chapter": "1",
@@ -1847,7 +1847,7 @@
     },
     {
         "abbr": "Job",
-        "book": "Job",
+        "name": "Job",
         "chapters": [
             {
                 "chapter": "1",
@@ -2021,7 +2021,7 @@
     },
     {
         "abbr": "Ps",
-        "book": "Psalm",
+        "name": "Psalm",
         "chapters": [
             {
                 "chapter": "1",
@@ -2627,7 +2627,7 @@
     },
     {
         "abbr": "Prov",
-        "book": "Proverbs",
+        "name": "Proverbs",
         "chapters": [
             {
                 "chapter": "1",
@@ -2757,7 +2757,7 @@
     },
     {
         "abbr": "Eccl",
-        "book": "Ecclesiastes",
+        "name": "Ecclesiastes",
         "chapters": [
             {
                 "chapter": "1",
@@ -2811,7 +2811,7 @@
     },
     {
         "abbr": "Song",
-        "book": "Song of Solomon",
+        "name": "Song of Solomon",
         "chapters": [
             {
                 "chapter": "1",
@@ -2849,7 +2849,7 @@
     },
     {
         "abbr": "Isa",
-        "book": "Isaiah",
+        "name": "Isaiah",
         "chapters": [
             {
                 "chapter": "1",
@@ -3119,7 +3119,7 @@
     },
     {
         "abbr": "Jer",
-        "book": "Jeremiah",
+        "name": "Jeremiah",
         "chapters": [
             {
                 "chapter": "1",
@@ -3333,7 +3333,7 @@
     },
     {
         "abbr": "Lam",
-        "book": "Lamentations",
+        "name": "Lamentations",
         "chapters": [
             {
                 "chapter": "1",
@@ -3359,7 +3359,7 @@
     },
     {
         "abbr": "Ezek",
-        "book": "Ezekiel",
+        "name": "Ezekiel",
         "chapters": [
             {
                 "chapter": "1",
@@ -3557,7 +3557,7 @@
     },
     {
         "abbr": "Dan",
-        "book": "Daniel",
+        "name": "Daniel",
         "chapters": [
             {
                 "chapter": "1",
@@ -3611,7 +3611,7 @@
     },
     {
         "abbr": "Hos",
-        "book": "Hosea",
+        "name": "Hosea",
         "chapters": [
             {
                 "chapter": "1",
@@ -3673,7 +3673,7 @@
     },
     {
         "abbr": "Joel",
-        "book": "Joel",
+        "name": "Joel",
         "chapters": [
             {
                 "chapter": "1",
@@ -3691,7 +3691,7 @@
     },
     {
         "abbr": "Amos",
-        "book": "Amos",
+        "name": "Amos",
         "chapters": [
             {
                 "chapter": "1",
@@ -3733,7 +3733,7 @@
     },
     {
         "abbr": "Obad",
-        "book": "Obadiah",
+        "name": "Obadiah",
         "chapters": [
             {
                 "chapter": "1",
@@ -3743,7 +3743,7 @@
     },
     {
         "abbr": "Jonah",
-        "book": "Jonah",
+        "name": "Jonah",
         "chapters": [
             {
                 "chapter": "1",
@@ -3765,7 +3765,7 @@
     },
     {
         "abbr": "Mic",
-        "book": "Micah",
+        "name": "Micah",
         "chapters": [
             {
                 "chapter": "1",
@@ -3799,7 +3799,7 @@
     },
     {
         "abbr": "Nah",
-        "book": "Nahum",
+        "name": "Nahum",
         "chapters": [
             {
                 "chapter": "1",
@@ -3817,7 +3817,7 @@
     },
     {
         "abbr": "Hab",
-        "book": "Habakkuk",
+        "name": "Habakkuk",
         "chapters": [
             {
                 "chapter": "1",
@@ -3835,7 +3835,7 @@
     },
     {
         "abbr": "Zeph",
-        "book": "Zephaniah",
+        "name": "Zephaniah",
         "chapters": [
             {
                 "chapter": "1",
@@ -3853,7 +3853,7 @@
     },
     {
         "abbr": "Hag",
-        "book": "Haggai",
+        "name": "Haggai",
         "chapters": [
             {
                 "chapter": "1",
@@ -3867,7 +3867,7 @@
     },
     {
         "abbr": "Zech",
-        "book": "Zechariah",
+        "name": "Zechariah",
         "chapters": [
             {
                 "chapter": "1",
@@ -3929,7 +3929,7 @@
     },
     {
         "abbr": "Mal",
-        "book": "Malachi",
+        "name": "Malachi",
         "chapters": [
             {
                 "chapter": "1",
@@ -3951,7 +3951,7 @@
     },
     {
         "abbr": "Matt",
-        "book": "Matthew",
+        "name": "Matthew",
         "chapters": [
             {
                 "chapter": "1",
@@ -4069,7 +4069,7 @@
     },
     {
         "abbr": "Mark",
-        "book": "Mark",
+        "name": "Mark",
         "chapters": [
             {
                 "chapter": "1",
@@ -4139,7 +4139,7 @@
     },
     {
         "abbr": "Luke",
-        "book": "Luke",
+        "name": "Luke",
         "chapters": [
             {
                 "chapter": "1",
@@ -4241,7 +4241,7 @@
     },
     {
         "abbr": "John",
-        "book": "John",
+        "name": "John",
         "chapters": [
             {
                 "chapter": "1",
@@ -4331,7 +4331,7 @@
     },
     {
         "abbr": "Acts",
-        "book": "Acts",
+        "name": "Acts",
         "chapters": [
             {
                 "chapter": "1",
@@ -4449,7 +4449,7 @@
     },
     {
         "abbr": "Rom",
-        "book": "Romans",
+        "name": "Romans",
         "chapters": [
             {
                 "chapter": "1",
@@ -4519,7 +4519,7 @@
     },
     {
         "abbr": "1Cor",
-        "book": "1 Corinthians",
+        "name": "1 Corinthians",
         "chapters": [
             {
                 "chapter": "1",
@@ -4589,7 +4589,7 @@
     },
     {
         "abbr": "2Cor",
-        "book": "2 Corinthians",
+        "name": "2 Corinthians",
         "chapters": [
             {
                 "chapter": "1",
@@ -4647,7 +4647,7 @@
     },
     {
         "abbr": "Gal",
-        "book": "Galatians",
+        "name": "Galatians",
         "chapters": [
             {
                 "chapter": "1",
@@ -4677,7 +4677,7 @@
     },
     {
         "abbr": "Eph",
-        "book": "Ephesians",
+        "name": "Ephesians",
         "chapters": [
             {
                 "chapter": "1",
@@ -4707,7 +4707,7 @@
     },
     {
         "abbr": "Phil",
-        "book": "Philippians",
+        "name": "Philippians",
         "chapters": [
             {
                 "chapter": "1",
@@ -4729,7 +4729,7 @@
     },
     {
         "abbr": "Col",
-        "book": "Colossians",
+        "name": "Colossians",
         "chapters": [
             {
                 "chapter": "1",
@@ -4751,7 +4751,7 @@
     },
     {
         "abbr": "1Thess",
-        "book": "1 Thessalonians",
+        "name": "1 Thessalonians",
         "chapters": [
             {
                 "chapter": "1",
@@ -4777,7 +4777,7 @@
     },
     {
         "abbr": "2Thess",
-        "book": "2 Thessalonians",
+        "name": "2 Thessalonians",
         "chapters": [
             {
                 "chapter": "1",
@@ -4795,7 +4795,7 @@
     },
     {
         "abbr": "1Tim",
-        "book": "1 Timothy",
+        "name": "1 Timothy",
         "chapters": [
             {
                 "chapter": "1",
@@ -4825,7 +4825,7 @@
     },
     {
         "abbr": "2Tim",
-        "book": "2 Timothy",
+        "name": "2 Timothy",
         "chapters": [
             {
                 "chapter": "1",
@@ -4847,7 +4847,7 @@
     },
     {
         "abbr": "Titus",
-        "book": "Titus",
+        "name": "Titus",
         "chapters": [
             {
                 "chapter": "1",
@@ -4865,7 +4865,7 @@
     },
     {
         "abbr": "Phlm",
-        "book": "Philemon",
+        "name": "Philemon",
         "chapters": [
             {
                 "chapter": "1",
@@ -4875,7 +4875,7 @@
     },
     {
         "abbr": "Heb",
-        "book": "Hebrews",
+        "name": "Hebrews",
         "chapters": [
             {
                 "chapter": "1",
@@ -4933,7 +4933,7 @@
     },
     {
         "abbr": "Jas",
-        "book": "James",
+        "name": "James",
         "chapters": [
             {
                 "chapter": "1",
@@ -4959,7 +4959,7 @@
     },
     {
         "abbr": "1Pet",
-        "book": "1 Peter",
+        "name": "1 Peter",
         "chapters": [
             {
                 "chapter": "1",
@@ -4985,7 +4985,7 @@
     },
     {
         "abbr": "2Pet",
-        "book": "2 Peter",
+        "name": "2 Peter",
         "chapters": [
             {
                 "chapter": "1",
@@ -5003,7 +5003,7 @@
     },
     {
         "abbr": "1John",
-        "book": "1 John",
+        "name": "1 John",
         "chapters": [
             {
                 "chapter": "1",
@@ -5029,7 +5029,7 @@
     },
     {
         "abbr": "2John",
-        "book": "2 John",
+        "name": "2 John",
         "chapters": [
             {
                 "chapter": "1",
@@ -5039,7 +5039,7 @@
     },
     {
         "abbr": "3John",
-        "book": "3 John",
+        "name": "3 John",
         "chapters": [
             {
                 "chapter": "1",
@@ -5049,7 +5049,7 @@
     },
     {
         "abbr": "Jude",
-        "book": "Jude",
+        "name": "Jude",
         "chapters": [
             {
                 "chapter": "1",
@@ -5059,7 +5059,7 @@
     },
     {
         "abbr": "Rev",
-        "book": "Revelation",
+        "name": "Revelation",
         "chapters": [
             {
                 "chapter": "1",

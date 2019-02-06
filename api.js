@@ -7,7 +7,7 @@ export const getEsvText = async (passage) => {
         'q': passage,
         'include-headings': false,
         'include-footnotes': false,
-        'include-verse-numbers': false,
+        'include-verse-numbers': true,
         'include-short-copyright': false,
         'include-passage-references': false,
     }
@@ -21,7 +21,7 @@ export const getEsvText = async (passage) => {
 
     const response = await fetch(url, requestOptions)
     const json = await response.json()
-    console.log(json.passages[0])
+    console.log(json)
 
     return json.passages[0]
 

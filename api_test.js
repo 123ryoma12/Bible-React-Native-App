@@ -4,6 +4,7 @@ const request = require('request')
 const queryString = require('query-string');
 const fetch = require('node-fetch')
 
+
 const getEsvText = async (passage) => {
     const query = {
         'q': passage,
@@ -23,12 +24,16 @@ const getEsvText = async (passage) => {
 
     const response = await fetch(url, requestOptions)
     const json = await response.json()
-    console.log(json.passages[0])
+    console.log(typeof json.passages[0])
 
     return json.passages[0]
 
 }
 
-const passage = getEsvText("2 Timothy 1")
-// CONSTANTS
-const books = require('./books.json')
+
+// const passage1 = getEsvText("Genesis 1.1")
+// const passage2 = getEsvText("Genesis 1.2")
+
+module.exports = {
+    getEsvText: getEsvText,
+}

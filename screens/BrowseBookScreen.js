@@ -12,7 +12,7 @@ const BookRow = props => (
     <TouchableOpacity style={styles.row}
         onPress={() => props.onSelectBook(props.book)}
     >
-        <Text>{props.book.book}</Text>
+        <Text>{props.book.name}</Text>
     </TouchableOpacity>
 )
 

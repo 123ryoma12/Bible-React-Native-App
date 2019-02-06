@@ -31,7 +31,7 @@ const ChapterList = props => (
 export default class BrowseChapterScreen extends React.Component {
 
     static navigationOptions = ({ navigation }) => ({
-        headerTitle: navigation.getParam('book').book
+        headerTitle: navigation.getParam('book').name
     })
 
     render() {
@@ -40,8 +40,10 @@ export default class BrowseChapterScreen extends React.Component {
                 <ChapterList
                     book = {this.props.navigation.getParam('book')}
                     onSelectChapter = {(props) => this.props.navigation.navigate('Chapter', {
-                        book: this.props.navigation.getParam('book').book,
+                        name: this.props.navigation.getParam('book').name,
                         number: props.number,
+                        verses: parseInt(this.props.navigation.getParam('book').chapters[props.number - 1].verses),
+                        chapters: this.props.navigation.getParam('book').chapters.length,
                     })}
                 />
             </View>
