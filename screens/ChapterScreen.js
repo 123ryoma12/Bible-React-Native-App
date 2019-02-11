@@ -53,8 +53,8 @@ export default class ChapterScreen extends React.Component {
             <View style={styles.container}>
                 <ScrollView>
                     <Text selectable>{this.state.passage}</Text>
-                    <Text selectable>Verse Count: {this.props.navigation.getParam('verses')}</Text>
-                    <Text selectable>Chapter Count: {this.props.navigation.getParam('chapters')}</Text>
+                    {/* <Text selectable>Verse Count: {this.props.navigation.getParam('verses')}</Text>
+                    <Text selectable>Chapter Count: {this.props.navigation.getParam('chapters')}</Text> */}
                     {
                         this.props.navigation.getParam('chapters') != this.props.navigation.getParam('number')
                         && <Button title="Next Chapter" onPress={this.nextChapter} />
